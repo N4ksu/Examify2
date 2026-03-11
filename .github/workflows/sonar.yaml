@@ -23,6 +23,6 @@ jobs:
         with:
           args: >
             -Dsonar.projectKey=orca123456_Final1
-            -Dsonar.organization=n4ksu
+            -Dsonar.organization=N4ksu
             -Dsonar.sources=.
             -Dsonar.host.url=https://sonarcloud.io
